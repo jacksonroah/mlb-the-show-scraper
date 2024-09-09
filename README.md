@@ -4,7 +4,7 @@
 This project automates the collection, processing, and analysis of game data from MLB The Show 24, focusing on head-to-head matches between two specific players. It leverages the game's API to fetch data, process it, and generate comprehensive statistics in an Excel spreadsheet.
 
 ## Features
-- Automated data retrieval from MLB The Show 24's API
+- Data retrieval of game statistics from MLB The Show 24's API
 - Detailed game log parsing and analysis
 - Player performance tracking and statistics calculation
 - Team performance analysis including inning-by-inning scoring
